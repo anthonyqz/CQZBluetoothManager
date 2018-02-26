@@ -1,0 +1,2 @@
+# CQZBluetoothManager
+Temporal licence
